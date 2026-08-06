@@ -29,6 +29,7 @@ Print this. Keep it open. This is your hunting console.
 | **Validate existing finding** | `/triage` |
 | **Chain bugs together** | `/chain` |
 | **Autonomous mode** | `/autopilot` |
+| **Build micro-agents** | `/hackbot-patterns` |
 
 ---
 
